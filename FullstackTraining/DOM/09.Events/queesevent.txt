@@ -1,0 +1,15 @@
+Cuando el usuario o el navegador manipula el documento 
+
+mover mouse, presionar algo, cargar la pagina
+
+cuando se detecta un click...
+
+
+//INLINE EVENT (no usar normalmente)
+
+es cuando en el mismo html pones el evento (como styles pero de events)
+
+ejemplo: onlick... /mirar codigo html linea 12
+
+se recomienda no usar ese metodo
+

@@ -1,0 +1,52 @@
+Java: For WebPages WebApps etc.
+dynamic stuff in wabpages
+
+enhance user experience.
+
+
+
+Para escribir pantalla:
+
+console.log("Mensaje");
+
+
+Variables:
+
+var, let (puede cambiar)
+
+const (no puede cambiar)
+
++ suma
+- resta
+/ division
+* multiplicacion
+% modulo (residuo de division)
+** potencia
+
+operadores "="
+
+=== revisa que el tipo y valor sean iguales
+!== retora true si el tipo y valor de ambos son diferentes
+
+== retorna true si el valor es igual (No importa si compara un numero con string)
+!= retorna falso si el valor es diferentes
+
+
+Type Conversion
+
+console.log(typeof num1) te da el tipo de variable de "num1"
+
+parseInt(variablestring) convierte string a int
+
+variablestring = +variablestring tambien convierte a int
+variablestring = Number(variablestring)
+
+
+para convertir a string
+
+variablenum.toString()
+string(variablenum)
+
+para convertir a float(decimal)
+
+variablenum = parsefloat(variablenum)

@@ -1,0 +1,37 @@
+Template strings sirven con `` <- esas wbds
+
+es mejor para construir strings usando variables o expresiones
+
+
+
+El destructuring muy importante
+
+
+//MAPS 
+
+Guarda las key values como cualquier tipo de objeto, guarda el tipo de entrada de pares, tiene metodos ya predeterminados
+que facilitan las iteraciones (loop)
+
+
+Resumen de temas vistos:
+
+
+//template strings
+//enhanced object literals
+//default function parameters
+//spread operators
+//rest parameters
+//destructuring
+//arrow functions
+//for of loop
+//for in loop
+//map method
+//filter method
+//find method
+//some method
+//every method
+//reduce method
+//refactorizacion
+//map method
+//set method
+//symbol

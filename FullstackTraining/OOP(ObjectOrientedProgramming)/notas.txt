@@ -1,0 +1,5 @@
+modelo de programacion que se concentra mas en acciones
+Javascript no esta hecho para OOP pero igual tiene conceptos que funcionan
+
+OOP es mejor con c++;
+

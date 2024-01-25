@@ -1,0 +1,22 @@
+DOM
+
+DOCUMENT
+
+OBJECT
+
+MODEL
+
+Se refiere a como esta estructurado
+
+Document (el html)
+=>
+    Body
+        => h1
+            => ul
+                => li 
+por ejemplo.
+
+de html se pasa al browser y de este se pasa a un DOM
+
+todo lo que esta en el file es un object
+

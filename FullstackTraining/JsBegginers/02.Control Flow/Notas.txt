@@ -1,0 +1,79 @@
+cuando tienes un let (variable) y no defines se pone como undefined 
+
+
+Switch 
+
+
+switch(en base a que){
+case x:
+    (proceso)
+    break;
+case y:
+    (proceso2)
+    break;
+default:
+{
+    proecso cuando no hay nda
+}
+}
+
+
+
+// logical operators
+
+// && 
+//True cuando ambos son true 
+
+// ||
+// True cuando uno de los dos es true
+
+// ! 
+// true cuando es false y viceversa
+
+//OBJETOS
+
+Cuando tenemos objetos se refiere a tener valores almacenados en una direccion
+
+
+
+FUNCTIONS
+
+Sirve para reusar codigo
+se puede llamar en momentos
+
+DRY DONT REPEAT YOURSELF
+
+Sirve para minimizar repeticiones y gasto de tiempo y memoria
+
+
+
+//los temas vistos fueron:
+
+//Variables
+//Data types
+//Strings
+//Numbers
+//Booleans
+//Null
+//Undefined
+//Concatenation
+//Template Strings
+//Arrays
+//Objects
+//If else
+//Switch
+//For loops
+//While loops
+//Do while loops
+//Logical operators
+//Functions
+//Function declarations
+//Function expressions
+//Callbacks
+//Global and local scope
+//Block scope
+//JSON
+//Date
+//SetInterval
+//SetTimeout
+//ClearInterval

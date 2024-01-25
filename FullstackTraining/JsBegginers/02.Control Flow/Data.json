@@ -1,0 +1,12 @@
+
+
+{
+    "name": "Sebastian",
+    "age": 20,
+    "hobbies": ["gaming", "programming", "music"],
+    "location": {
+        "city": "Trujillo",
+        "country": "Peru"
+    },
+    "email": "segs@correo.com"
+}
